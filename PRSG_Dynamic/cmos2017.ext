@@ -1,0 +1,43 @@
+# L-Edit extractor definition file- Carleton SOI CMOS v5 2017
+# Format for connect statements:
+
+# connect ( <layer_1>, <layer_2>, <thru_layer> )
+connect(Poly, Metal, Contact)
+
+connect(Source_Drain, Metal, Contact)
+#
+
+# nChannel = Device_Well .AND. Poly .AND. n+ .AND. .NOT. Tgate
+
+# pChannel = Device_Well .AND. Poly .AND. n-well .AND. p+ 
+
+# SourceDrain = Device_Well .AND. (.NOT. Poly)
+#
+
+# devices are defined as:
+#
+
+device = MOSFET(
+ RLAYER=nChannel; 
+ Drain=Source_Drain, AREA; 
+ Gate=Poly;  
+ Source=Source_Drain, AREA; 
+ Bulk=Substrate; 
+ MODEL=NMOS;)
+
+#
+
+device = MOSFET(
+ RLAYER=pChannel; 
+ Drain=Source_Drain, AREA; 
+ Gate=Poly;  
+ Source=Source_Drain, AREA;  
+ bulk=n-well;  
+ MODEL=PMOS;)
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+*Carleton CMOS models revised Jan. 27 2016
+
+.model nmos nmos level=3 nsub=2e14 tox=25n ld=0.2u vto=0.4 nfs=6e11
++ uo=685 theta=0.15 xj=1u vmax=1.5e6 eta=0.1 kappa=0.1
++ cj=9e-5 cgdo=3e-10 cgso=3e-10
+
+.model pmos pmos level=3 nsub=2e14 tox=25n ld=0.2u vto=-0.23 nfs=6e11 
++ uo=250 theta=0.16 xj=1u vmax=1e6 eta=0.1 kappa=0.005 
++ cj=9e-5 cgdo=3e-10 cgso=3e-10

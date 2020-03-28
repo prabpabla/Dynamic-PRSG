@@ -1,0 +1,138 @@
+Circuit: * W:\Desktop\PRSD_Testbench.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.45493e-006
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 9.38995e-007
+vernier = 0.296296
+vernier = 0.395061
+Gmin = 4.73271e-007
+vernier = 0.526748
+Gmin = 1.59204e-007
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 2.83561e-008
+vernier = 1
+Gmin = 3.16384e-009
+Gmin = 3.39714e-010
+Gmin = 3.64766e-011
+Gmin = 3.91664e-012
+Gmin = 4.20546e-013
+Terminal Gmin changed to 1e-014
+vernier = 0.5
+vernier = 0.25
+Gmin = 1.10244e-013
+vernier = 0.125
+vernier = 0.166667
+Gmin = 8.02821e-014
+vernier = 0.222222
+vernier = 0.296296
+Gmin = 4.63667e-014
+vernier = 0.395061
+Gmin = 1.97988e-014
+vernier = 0.526748
+vernier = 0.263374
+vernier = 0.131687
+vernier = 0.0658435
+vernier = 0.0329218
+vernier = 0.0164609
+vernier = 0.00823044
+vernier = 0.00411522
+vernier = 0.00205761
+Gmin = 1.97887e-014
+vernier = 0.00274348
+Gmin = 1.96669e-014
+vernier = 0.00365797
+vernier = 0.0048773
+Gmin = 1.94642e-014
+vernier = 0.00650306
+vernier = 0.00867074
+vernier = 0.00433537
+Gmin = 1.92285e-014
+vernier = 0.00216769
+vernier = 0.00108384
+vernier = 0.000541921
+vernier = 0.000722562
+Gmin = 1.9212e-014
+vernier = 0.000541921
+vernier = 0.000722562
+Gmin = 1.91886e-014
+vernier = 0.000963415
+vernier = 0.00128455
+Gmin = 1.91417e-014
+vernier = 0.00171274
+Gmin = 1.90681e-014
+vernier = 0.00228365
+vernier = 0.00304486
+Gmin = 1.89452e-014
+vernier = 0.00405982
+vernier = 0.00541309
+Gmin = 1.87508e-014
+vernier = 0.00721745
+Gmin = 1.8449e-014
+vernier = 0.00962327
+vernier = 0.012831
+Gmin = 1.79534e-014
+vernier = 0.017108
+vernier = 0.0228107
+Gmin = 1.71912e-014
+vernier = 0.0304142
+Gmin = 1.60579e-014
+vernier = 0.0405523
+vernier = 0.0540697
+Gmin = 1.43245e-014
+vernier = 0.072093
+vernier = 0.0961239
+Gmin = 1.19466e-014
+vernier = 0.128165
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Changing Tseed to 1e-008
+Changing Tseed to 1e-010
+Changing Tseed to 1e-007
+Changing Tseed to 1e-011
+Changing Tseed to 1e-006
+Changing Tseed to 1e-012
+Changing Tseed to 1e-005
+Changing Tseed to 1e-013
+Changing Tseed to 0.0001
+Changing Tseed to 1e-014
+Changing Tseed to 0.001
+Changing Tseed to 1e-015
+Heightened Def Con from 0.1 ++++++++++++++++++++++to 0.1
+Heightened Def Con from 0.311181 to 0.311181
+
+Date: Mon Jan 23 22:23:10 2017
+Total elapsed time: 698.046 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 13135592
+traniter = 13132110
+tranpoints = 3050531
+accept = 2287225
+rejected = 763318
+matrix size = 70
+fillins = 1088
+solver = Normal
+Thread vector: 44.5/13.9[4] 16.9/4.7[4] 5.1/3.2[4] 0.5/1.0[1]  2592/500
+Matrix Compiler1: 195.96 KB object code size  30.1/13.5/[10.6]
+Matrix Compiler2: 26.74 KB object code size  1.8/1.6/[1.2]
+
+

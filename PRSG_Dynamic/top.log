@@ -1,0 +1,106 @@
+Circuit: * W:\Desktop\ELEC4609\PRSG_Dynamic\top.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.000124915
+vernier = 0.0833333
+Gmin = 0.000103741
+vernier = 0.111111
+vernier = 0.148148
+Gmin = 7.60989e-005
+vernier = 0.197531
+vernier = 0.263374
+Gmin = 4.66444e-005
+vernier = 0.351165
+Gmin = 2.18149e-005
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 6.28584e-006
+vernier = 0.832392
+vernier = 0.416196
+Gmin = 1.65536e-006
+vernier = 0.208098
+vernier = 0.104049
+vernier = 0.0520245
+vernier = 0.0260122
+Gmin = 1.62355e-006
+vernier = 0.0130061
+vernier = 0.00650306
+vernier = 0.00325153
+vernier = 0.00162576
+Gmin = 1.6196e-006
+vernier = 0.00216769
+Gmin = 1.61194e-006
+vernier = 0.00289025
+vernier = 0.00385366
+Gmin = 1.59947e-006
+vernier = 0.00513821
+vernier = 0.00685095
+Gmin = 1.57992e-006
+vernier = 0.0091346
+Gmin = 1.54869e-006
+vernier = 0.0121795
+vernier = 0.0162393
+Gmin = 1.4989e-006
+vernier = 0.0216524
+vernier = 0.0288698
+Gmin = 1.42332e-006
+vernier = 0.0384931
+Gmin = 1.30885e-006
+vernier = 0.0513241
+vernier = 0.0684321
+Gmin = 1.14132e-006
+vernier = 0.0912428
+vernier = 0.121657
+Gmin = 9.19441e-007
+vernier = 0.162209
+Gmin = 6.48851e-007
+vernier = 0.216279
+vernier = 0.288372
+Gmin = 3.6895e-007
+vernier = 0.384496
+vernier = 0.512661
+Gmin = 1.53017e-007
+vernier = 0.683548
+Gmin = 3.80453e-008
+vernier = 0.911397
+vernier = 1
+Gmin = 4.85496e-009
+Gmin = 5.21297e-010
+Gmin = 5.59739e-011
+Gmin = 6.01015e-012
+Gmin = 6.45335e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Feb 13 18:10:23 2017
+Total elapsed time: 8.469 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 250280
+traniter = 247678
+tranpoints = 61783
+accept = 43463
+rejected = 18320
+matrix size = 53
+fillins = 171
+solver = Normal
+Thread vector: 41.3/17.6[4] 16.3/4.5[4] 8.0/2.8[4] 0.3/1.0[1]  2592/500
+Matrix Compiler1: 19.64 KB object code size  3.1/2.0/[1.1]
+Matrix Compiler2: 9.30 KB object code size  1.2/1.2/[0.8]
+
+

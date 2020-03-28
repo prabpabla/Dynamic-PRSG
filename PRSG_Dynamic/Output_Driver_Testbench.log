@@ -1,0 +1,706 @@
+Circuit: * W:\Desktop\Output_Driver_Testbench.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 4.096
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 4.04843
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 4.03365
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 18.9394%
+Source Step = 24.6212%
+Source Step = 26.5152%
+Source Step = 28.4091%
+Source Step = 30.303%
+Source Step = 32.197%
+Source Step = 32.4041%
+Source Step = 32.4337%
+Source Step = 32.4633%
+Source Step = 32.4929%
+Source Step = 32.5225%
+vernier = 0.00146484
+Source Step = 32.5595%
+Source Step = 32.6039%
+Source Step = 32.6483%
+Source Step = 32.6926%
+Source Step = 32.737%
+vernier = 0.00219727
+Source Step = 32.7903%
+Source Step = 32.8569%
+Source Step = 32.9235%
+Source Step = 32.9901%
+Source Step = 33.0566%
+vernier = 0.0032959
+Source Step = 33.1332%
+Source Step = 33.2331%
+Source Step = 33.333%
+Source Step = 33.4328%
+Source Step = 33.5327%
+vernier = 0.00494385
+Source Step = 33.6426%
+Source Step = 33.7924%
+Source Step = 33.9422%
+Source Step = 34.092%
+Source Step = 34.2418%
+vernier = 0.00741577
+Source Step = 34.3991%
+Source Step = 34.6239%
+Source Step = 34.8486%
+Source Step = 35.0733%
+Source Step = 35.298%
+Source Step = 35.5227%
+vernier = 0.0111237
+Source Step = 35.8598%
+Source Step = 36.1969%
+Source Step = 36.534%
+Source Step = 36.8711%
+Source Step = 37.2081%
+vernier = 0.0166855
+Source Step = 37.6969%
+Source Step = 38.2025%
+Source Step = 38.7081%
+Source Step = 39.2138%
+Source Step = 39.7194%
+vernier = 0.0250282
+Source Step = 40.4273%
+Source Step = 41.1857%
+Source Step = 41.9441%
+Source Step = 42.7026%
+Source Step = 43.461%
+vernier = 0.0375423
+Source Step = 44.4849%
+Source Step = 45.6225%
+Source Step = 46.7602%
+Source Step = 47.8978%
+Source Step = 49.0355%
+vernier = 0.0563135
+Source Step = 50.5144%
+Source Step = 52.2209%
+Source Step = 53.9273%
+Source Step = 55.6338%
+Source Step = 57.3403%
+vernier = 0.0844703
+Source Step = 59.4734%
+Source Step = 62.0331%
+Source Step = 64.5928%
+Source Step = 67.1525%
+Source Step = 69.7122%
+vernier = 0.126705
+Source Step = 72.7838%
+Source Step = 76.6234%
+Source Step = 80.4629%
+Source Step = 84.3025%
+Source Step = 86.6542%
+Source Step = 86.8162%
+Source Step = 86.8762%
+Source Step = 86.9362%
+Source Step = 86.9962%
+Source Step = 87.0562%
+Source Step = 87.1162%
+vernier = 0.00296966
+Source Step = 87.2062%
+Source Step = 87.2962%
+Source Step = 87.3861%
+Source Step = 87.4761%
+Source Step = 87.5661%
+vernier = 0.00445449
+Source Step = 87.6966%
+Source Step = 87.8316%
+Source Step = 87.9666%
+Source Step = 88.1016%
+Source Step = 88.2366%
+vernier = 0.00668173
+Source Step = 88.4255%
+Source Step = 88.628%
+Source Step = 88.8305%
+Source Step = 89.033%
+Source Step = 89.2354%
+vernier = 0.0100226
+Source Step = 89.5088%
+Source Step = 89.8125%
+Source Step = 90.1162%
+Source Step = 90.4199%
+Source Step = 90.7236%
+vernier = 0.0150339
+Source Step = 91.1185%
+Source Step = 91.574%
+Source Step = 92.0296%
+Source Step = 92.4852%
+Source Step = 92.9408%
+vernier = 0.0225508
+Source Step = 93.5102%
+Source Step = 94.1936%
+Source Step = 94.8769%
+Source Step = 95.5603%
+Source Step = 96.2437%
+vernier = 0.0338263
+Source Step = 97.0637%
+Source Step = 98.0887%
+Source Step = 99.1138%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.406 to 0.406
+Heightened Def Con from 0.406 to 0.406
+Heightened Def Con from 0.406 to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 ++++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++to 0.406
+Heightened Def Con from 0.406 +++++++++++++++++++++++++++++to 0.406
+
+Date: Tue Jan 24 17:30:34 2017
+Total elapsed time: 1672.960 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 33458264
+traniter = 33451644
+tranpoints = 7622442
+accept = 5651058
+rejected = 1984196
+matrix size = 72
+fillins = 1328
+solver = Normal
+Thread vector: 43.9/19.4[4] 18.3/6.1[4] 6.0/3.8[4] 0.5/1.2[1]  2592/500
+Matrix Compiler1: 233.99 KB object code size  38.0/18.7/[14.3]
+Matrix Compiler2: 29.90 KB object code size  1.9/1.7/[1.1]
+
+

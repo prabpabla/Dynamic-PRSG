@@ -1,0 +1,22 @@
+Circuit: * W:\Desktop\ELEC4609_PRSG_D\PRSG_Dynamic\Master_CLK_Testbench.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Mar 20 16:25:01 2017
+Total elapsed time: 0.216 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11540
+traniter = 11517
+tranpoints = 3690
+accept = 2912
+rejected = 778
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1:      27 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 675 bytes object code size  0.1/0.1/[0.1]
+
+
